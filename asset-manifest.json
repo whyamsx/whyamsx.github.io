@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6092b32d.chunk.css",
+    "main.js": "/static/js/main.5b5a0f32.chunk.js",
+    "main.js.map": "/static/js/main.5b5a0f32.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19dff107.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19dff107.js.map",
+    "static/js/2.378f2c9f.chunk.js": "/static/js/2.378f2c9f.chunk.js",
+    "static/js/2.378f2c9f.chunk.js.map": "/static/js/2.378f2c9f.chunk.js.map",
+    "static/js/3.0f7dc078.chunk.js": "/static/js/3.0f7dc078.chunk.js",
+    "static/js/3.0f7dc078.chunk.js.map": "/static/js/3.0f7dc078.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.6092b32d.chunk.css.map": "/static/css/main.6092b32d.chunk.css.map",
+    "static/js/2.378f2c9f.chunk.js.LICENSE.txt": "/static/js/2.378f2c9f.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Ubuntu-Regular.fbdecfce.ttf",
+    "static/media/bottle.25cd8e3e.png": "/static/media/bottle.25cd8e3e.png",
+    "static/media/screen.7a3857e6.jpg": "/static/media/screen.7a3857e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19dff107.js",
+    "static/js/2.378f2c9f.chunk.js",
+    "static/css/main.6092b32d.chunk.css",
+    "static/js/main.5b5a0f32.chunk.js"
+  ]
+}
