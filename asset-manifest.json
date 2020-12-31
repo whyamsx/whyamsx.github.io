@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.28fd4e0c.chunk.css",
+    "main.css": "/static/css/main.cf3d99f4.chunk.css",
     "main.js": "/static/js/main.4979f937.chunk.js",
     "main.js.map": "/static/js/main.4979f937.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.cc17501f.js",
@@ -10,7 +10,7 @@
     "static/js/3.703939de.chunk.js": "/static/js/3.703939de.chunk.js",
     "static/js/3.703939de.chunk.js.map": "/static/js/3.703939de.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.28fd4e0c.chunk.css.map": "/static/css/main.28fd4e0c.chunk.css.map",
+    "static/css/main.cf3d99f4.chunk.css.map": "/static/css/main.cf3d99f4.chunk.css.map",
     "static/js/2.c1b5cdd9.chunk.js.LICENSE.txt": "/static/js/2.c1b5cdd9.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/Ubuntu-Regular.fbdecfce.ttf",
     "static/media/bottle.25cd8e3e.png": "/static/media/bottle.25cd8e3e.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.cc17501f.js",
     "static/js/2.c1b5cdd9.chunk.js",
-    "static/css/main.28fd4e0c.chunk.css",
+    "static/css/main.cf3d99f4.chunk.css",
     "static/js/main.4979f937.chunk.js"
   ]
 }
