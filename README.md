@@ -1,1 +1,0 @@
-# whyamsx.github.io
