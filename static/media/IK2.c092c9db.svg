@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 16 16">
+    <defs>
+        <radialGradient id="a" cx="67.409%" cy="27.906%" r="57.014%" fx="67.409%" fy="27.906%">
+            <stop offset="0%" stop-color="#58595B"/>
+            <stop offset="100%"/>
+        </radialGradient>
+        <radialGradient id="b" cx="67.094%" cy="101.86%" r="465.159%" fx="67.094%" fy="101.86%" gradientTransform="matrix(.21927 0 0 1 .524 0)">
+            <stop offset="0%" stop-color="#FFEF9C"/>
+            <stop offset="35.15%" stop-color="#FDD608"/>
+            <stop offset="64.85%" stop-color="#F6AA26"/>
+        </radialGradient>
+        <radialGradient id="c" cx="67.075%" cy="-137.094%" r="481.993%" fx="67.075%" fy="-137.094%" gradientTransform="matrix(.21899 0 0 1 .524 0)">
+            <stop offset="0%" stop-color="#FFEF9C"/>
+            <stop offset="35.15%" stop-color="#FDD608"/>
+            <stop offset="64.85%" stop-color="#F6AA26"/>
+        </radialGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd" transform="translate(-406 -268)">
+        <rect width="247" height="511" x="395.5" y="61.5" stroke="#999" rx="1"/>
+        <g transform="translate(406 268)">
+            <circle cx="8" cy="8.054" r="7.892" fill="url(#a)"/>
+            <path fill="url(#b)" d="M2.3 2.599a7.882 7.882 0 0 0-1.872 3.23 175.047 175.047 0 0 1 15.143 0 7.882 7.882 0 0 0-1.871-3.23c-3.8-.122-7.602-.122-11.4 0z"/>
+            <path fill="url(#c)" d="M.417 10.241a7.88 7.88 0 0 0 1.846 3.23c3.823.122 7.65.122 11.473 0a7.88 7.88 0 0 0 1.846-3.23c-5.052.219-10.112.219-15.165 0z"/>
+        </g>
+    </g>
+</svg>

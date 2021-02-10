@@ -1,25 +1,42 @@
 {
   "files": {
-    "main.css": "/static/css/main.ea9124ff.chunk.css",
-    "main.js": "/static/js/main.7bda136d.chunk.js",
-    "main.js.map": "/static/js/main.7bda136d.chunk.js.map",
+    "main.css": "/static/css/main.248eeb99.chunk.css",
+    "main.js": "/static/js/main.c5ff9ac9.chunk.js",
+    "main.js.map": "/static/js/main.c5ff9ac9.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.c567c287.js",
     "runtime-main.js.map": "/static/js/runtime-main.c567c287.js.map",
-    "static/js/2.9d4244f9.chunk.js": "/static/js/2.9d4244f9.chunk.js",
-    "static/js/2.9d4244f9.chunk.js.map": "/static/js/2.9d4244f9.chunk.js.map",
+    "static/js/2.b2da5b85.chunk.js": "/static/js/2.b2da5b85.chunk.js",
+    "static/js/2.b2da5b85.chunk.js.map": "/static/js/2.b2da5b85.chunk.js.map",
     "static/js/3.d575a04b.chunk.js": "/static/js/3.d575a04b.chunk.js",
     "static/js/3.d575a04b.chunk.js.map": "/static/js/3.d575a04b.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.ea9124ff.chunk.css.map": "/static/css/main.ea9124ff.chunk.css.map",
-    "static/js/2.9d4244f9.chunk.js.LICENSE.txt": "/static/js/2.9d4244f9.chunk.js.LICENSE.txt",
+    "static/css/main.248eeb99.chunk.css.map": "/static/css/main.248eeb99.chunk.css.map",
+    "static/js/2.b2da5b85.chunk.js.LICENSE.txt": "/static/js/2.b2da5b85.chunk.js.LICENSE.txt",
+    "static/media/ALP.e5124a1a.svg": "/static/media/ALP.e5124a1a.svg",
+    "static/media/BTC.55d15216.svg": "/static/media/BTC.55d15216.svg",
+    "static/media/IK1.27bc8d4b.svg": "/static/media/IK1.27bc8d4b.svg",
+    "static/media/IK2.c092c9db.svg": "/static/media/IK2.c092c9db.svg",
+    "static/media/IK3.51d14e63.svg": "/static/media/IK3.51d14e63.svg",
+    "static/media/MMR.4f35584d.svg": "/static/media/MMR.4f35584d.svg",
+    "static/media/PLR.6d3bc7e7.svg": "/static/media/PLR.6d3bc7e7.svg",
+    "static/media/QSP.28821cf6.svg": "/static/media/QSP.28821cf6.svg",
+    "static/media/SFT.eb989a29.svg": "/static/media/SFT.eb989a29.svg",
     "static/media/index.css": "/static/media/TTCommons-ThinItalic.ce7708f0.eot",
+    "static/media/UNP.50dc8742.svg": "/static/media/UNP.50dc8742.svg",
+    "static/media/WMR.5a7b6742.svg": "/static/media/WMR.5a7b6742.svg",
     "static/media/en.11dde1fa.png": "/static/media/en.11dde1fa.png",
-    "static/media/ru.a7232634.png": "/static/media/ru.a7232634.png"
+    "static/media/logo.fced9a6c.svg": "/static/media/logo.fced9a6c.svg",
+    "static/media/mastercard.d68df551.svg": "/static/media/mastercard.d68df551.svg",
+    "static/media/mir.02974eeb.svg": "/static/media/mir.02974eeb.svg",
+    "static/media/ru.a7232634.png": "/static/media/ru.a7232634.png",
+    "static/media/sberbank.b74eeb5c.png": "/static/media/sberbank.b74eeb5c.png",
+    "static/media/umoney.06dd3fe4.png": "/static/media/umoney.06dd3fe4.png",
+    "static/media/visa.1fae40ca.svg": "/static/media/visa.1fae40ca.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.c567c287.js",
-    "static/js/2.9d4244f9.chunk.js",
-    "static/css/main.ea9124ff.chunk.css",
-    "static/js/main.7bda136d.chunk.js"
+    "static/js/2.b2da5b85.chunk.js",
+    "static/css/main.248eeb99.chunk.css",
+    "static/js/main.c5ff9ac9.chunk.js"
   ]
 }
