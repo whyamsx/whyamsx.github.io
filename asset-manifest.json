@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/static/css/main.823a56ff.chunk.css",
-    "main.js": "/static/js/main.f19887c2.chunk.js",
-    "main.js.map": "/static/js/main.f19887c2.chunk.js.map",
+    "main.css": "/static/css/main.3a07d0cc.chunk.css",
+    "main.js": "/static/js/main.47779295.chunk.js",
+    "main.js.map": "/static/js/main.47779295.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3c383eb1.js",
     "runtime-main.js.map": "/static/js/runtime-main.3c383eb1.js.map",
-    "static/js/2.062a5fe4.chunk.js": "/static/js/2.062a5fe4.chunk.js",
-    "static/js/2.062a5fe4.chunk.js.map": "/static/js/2.062a5fe4.chunk.js.map",
+    "static/js/2.9a8ccb97.chunk.js": "/static/js/2.9a8ccb97.chunk.js",
+    "static/js/2.9a8ccb97.chunk.js.map": "/static/js/2.9a8ccb97.chunk.js.map",
     "static/js/3.f260b44e.chunk.js": "/static/js/3.f260b44e.chunk.js",
     "static/js/3.f260b44e.chunk.js.map": "/static/js/3.f260b44e.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.823a56ff.chunk.css.map": "/static/css/main.823a56ff.chunk.css.map",
-    "static/js/2.062a5fe4.chunk.js.LICENSE.txt": "/static/js/2.062a5fe4.chunk.js.LICENSE.txt",
+    "static/css/main.3a07d0cc.chunk.css.map": "/static/css/main.3a07d0cc.chunk.css.map",
+    "static/js/2.9a8ccb97.chunk.js.LICENSE.txt": "/static/js/2.9a8ccb97.chunk.js.LICENSE.txt",
     "static/media/ALP.e5124a1a.svg": "/static/media/ALP.e5124a1a.svg",
     "static/media/BTC.55d15216.svg": "/static/media/BTC.55d15216.svg",
     "static/media/IK1.27bc8d4b.svg": "/static/media/IK1.27bc8d4b.svg",
@@ -29,14 +29,12 @@
     "static/media/mastercard.d68df551.svg": "/static/media/mastercard.d68df551.svg",
     "static/media/mir.02974eeb.svg": "/static/media/mir.02974eeb.svg",
     "static/media/ru.a7232634.png": "/static/media/ru.a7232634.png",
-    "static/media/sberbank.b74eeb5c.png": "/static/media/sberbank.b74eeb5c.png",
-    "static/media/umoney.06dd3fe4.png": "/static/media/umoney.06dd3fe4.png",
     "static/media/visa.1fae40ca.svg": "/static/media/visa.1fae40ca.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.3c383eb1.js",
-    "static/js/2.062a5fe4.chunk.js",
-    "static/css/main.823a56ff.chunk.css",
-    "static/js/main.f19887c2.chunk.js"
+    "static/js/2.9a8ccb97.chunk.js",
+    "static/css/main.3a07d0cc.chunk.css",
+    "static/js/main.47779295.chunk.js"
   ]
 }
