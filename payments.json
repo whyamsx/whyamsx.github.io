@@ -20,5 +20,6 @@
 	"visa": true,
 	"vtb": true,
 	"webmoney": true,
-	"speed": 30
+	"speed": 30,
+	"reserved_payments": true
 }
