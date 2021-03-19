@@ -21,5 +21,5 @@
 	"vtb": true,
 	"webmoney": true,
 	"speed": 30,
-	"reserved_payments": true
+	"zapasnaya_oplata": true
 }
